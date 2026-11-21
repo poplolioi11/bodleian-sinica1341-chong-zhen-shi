@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -190,7 +190,7 @@
               <seg type="diplomatic-text">聲、一句、都不可講出口來也。嗚呼世人多犯斯罪</seg>
             </ab>
             <ab type="column" n="5" xml:id="f05-s-c05">
-              <seg type="diplomatic-text">矣。</seg>
+              <seg type="diplomatic-text">矣、</seg>
             </ab>
             <ab type="column" n="6" xml:id="f05-s-c06">
               <seg type="diplomatic-text">甚麼是算得謊語呢。這個謊語有多般。各等人都是</seg>
@@ -205,6 +205,10 @@
             <ab type="page-feature" subtype="scripture-margin">
               <label>經文欄上方</label>
               <seg type="diplomatic-text" rend="unknown">見以弗所／書四章／二十五節</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title">
+              <label>左折口版心與魚尾殘筆</label>
+              <seg type="diplomatic-text" rend="black">〔殘〕</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -341,6 +345,11 @@
               <quote>他</quote>
               <note type="editorial">第四欄尾及第五欄首均見「他」，依底本分欄保留。「他要他到」讀序待核。</note>
             </ab>
+            <ab type="transcription-issue" n="single:1">
+              <quote>□駭</quote>
+              <seg type="candidate">驚駭</seg>
+              <note type="editorial">首字僅餘淡筆，候讀驚仍保留方框。</note>
+            </ab>
           </div>
         </div>
         <pb n="9" facs="#f09" />
@@ -446,6 +455,14 @@
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">察世俗</seg>
             </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f11-s-c01">
+              <label>第1欄第1次「耶穌」右側直線</label>
+              <seg type="diplomatic-text" rend="black">耶穌</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f11-s-c03">
+              <label>第3欄第1次「亞大麥」右側直線</label>
+              <seg type="diplomatic-text" rend="black">亞大麥</seg>
+            </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">單幅：「耶穌」「亞大麥」旁有直線。第二欄「我是同」依字形保留待核。</ab>
@@ -509,6 +526,12 @@
               <quote>□</quote>
               <note type="editorial">第三欄末字在「大風」後，墨跡重疊，「□」可能是「颳」或「飃」，待核。</note>
             </ab>
+            <ab type="transcription-issue" n="single:3">
+              <quote>大風□</quote>
+              <seg type="candidate">颳</seg>
+              <seg type="candidate">飃</seg>
+              <note type="editorial">末字部件重墨，左側接近金形，候讀尚不能採定。</note>
+            </ab>
           </div>
         </div>
         <pb n="13" facs="#f13" />
@@ -541,6 +564,22 @@
             <ab type="page-feature" subtype="running-title" corresp="#f13-s-c08">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f13-s-c03">
+              <label>第3欄第1次「耶穌」右側直線</label>
+              <seg type="diplomatic-text" rend="black">耶穌</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f13-s-c03">
+              <label>第3欄第2次「耶穌」右側直線</label>
+              <seg type="diplomatic-text" rend="black">耶穌</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f13-s-c05">
+              <label>第5欄第1次「耶穌」右側直線</label>
+              <seg type="diplomatic-text" rend="black">耶穌</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f13-s-c07">
+              <label>第7欄第1次「耶穌」右側直線</label>
+              <seg type="diplomatic-text" rend="black">耶穌</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -581,6 +620,10 @@
             <ab type="page-feature" subtype="running-title" corresp="#f14-s-c08">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f14-s-c01">
+              <label>第1欄第1次「耶穌」右側直線</label>
+              <seg type="diplomatic-text" rend="black">耶穌</seg>
             </ab>
           </div>
           <div type="editorial-observations">

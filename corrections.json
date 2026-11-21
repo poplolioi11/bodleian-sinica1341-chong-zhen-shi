@@ -1,0 +1,317 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 9,
+  "changes": [
+    {
+      "image": 5,
+      "side": "single",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "矣。",
+      "after": "矣、",
+      "reason": "矣右下為斜實點，與也字旁空心環不同。",
+      "source_bbox": [
+        623,
+        664,
+        802,
+        783
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "source_image_sha256": "8a1a81d73dc13dfe8a41a281632bd789a6670552fcf964947b4ddda1f0c303ad",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2339252e-d4f6-4a0d-bb1d-0f59bdde698d.json"
+    },
+    {
+      "image": 5,
+      "side": "single",
+      "column": null,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "〔殘〕",
+      "reason": "半折口有殘筆及魚尾，字面不全。",
+      "source_bbox": [
+        161,
+        670,
+        263,
+        1450
+      ],
+      "source_image_sha256": "8a1a81d73dc13dfe8a41a281632bd789a6670552fcf964947b4ddda1f0c303ad",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2339252e-d4f6-4a0d-bb1d-0f59bdde698d.json"
+    },
+    {
+      "image": 11,
+      "side": "single",
+      "column": 1,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "耶穌",
+      "reason": "與原字相連的右直線另立條目。",
+      "source_image_sha256": "1585e593f16b352edf86aa94d22db56f1c0db35ddb9dab2ccf85d5e3100a8a08",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json"
+    },
+    {
+      "image": 11,
+      "side": "single",
+      "column": 3,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "亞大麥",
+      "reason": "與原字相連的右直線另立條目。",
+      "source_image_sha256": "1585e593f16b352edf86aa94d22db56f1c0db35ddb9dab2ccf85d5e3100a8a08",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json"
+    },
+    {
+      "image": 13,
+      "side": "single",
+      "column": 3,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "耶穌",
+      "reason": "與原字相連的右直線另立條目。",
+      "source_image_sha256": "6f06931da5875308dadf1938796aca9c885075abbc64cc103f322ff6f313ac1a",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1.json"
+    },
+    {
+      "image": 13,
+      "side": "single",
+      "column": 3,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "耶穌",
+      "reason": "與原字相連的右直線另立條目。",
+      "source_image_sha256": "6f06931da5875308dadf1938796aca9c885075abbc64cc103f322ff6f313ac1a",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1.json"
+    },
+    {
+      "image": 13,
+      "side": "single",
+      "column": 5,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "耶穌",
+      "reason": "與原字相連的右直線另立條目。",
+      "source_image_sha256": "6f06931da5875308dadf1938796aca9c885075abbc64cc103f322ff6f313ac1a",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1.json"
+    },
+    {
+      "image": 13,
+      "side": "single",
+      "column": 7,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "耶穌",
+      "reason": "與原字相連的右直線另立條目。",
+      "source_image_sha256": "6f06931da5875308dadf1938796aca9c885075abbc64cc103f322ff6f313ac1a",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1.json"
+    },
+    {
+      "image": 14,
+      "side": "single",
+      "column": 1,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "耶穌",
+      "reason": "與原字相連的右直線另立條目。",
+      "source_image_sha256": "8c8a1457a2f4639b4916749743795dcb7629a4ddbdd52efb54ec2865da74bf0a",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d36b6192-0391-4b98-ac42-7cc9a191f9fa.json"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2e47f698-0c21-409e-878c-4a45705a49cb.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 4,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69423726-6d99-496d-b3c2-29982bfff93c.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 5,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2339252e-d4f6-4a0d-bb1d-0f59bdde698d.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 11,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 11,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 11,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 12,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d42310cc-4e83-47eb-b13d-b5caba386165.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 12,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d42310cc-4e83-47eb-b13d-b5caba386165.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 12,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d42310cc-4e83-47eb-b13d-b5caba386165.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 12,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d42310cc-4e83-47eb-b13d-b5caba386165.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 14,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d36b6192-0391-4b98-ac42-7cc9a191f9fa.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 14,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d36b6192-0391-4b98-ac42-7cc9a191f9fa.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 14,
+      "side": "single",
+      "column": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d36b6192-0391-4b98-ac42-7cc9a191f9fa.json",
+      "status": "字形或版面待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 3,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "9e9c926e23f8c44d7d32b8afc28776d697bb70999982ccb8c166655d3ee1bb33",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0e4dfb5d-74e1-4548-a2d7-352ea835e255.json",
+      "reading": "崇眞實棄假謊略說",
+      "status": "依原圖留讀",
+      "reason": "原圖見謊字右上草頭及略字左田右各。"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": 4,
+      "source_image_sha256": "3c63c5911e0cadf216444909a8933a583be75e67a9e8fc4dbfd775ec47281a35",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "reading": "粧",
+      "status": "依原圖留讀",
+      "reason": "欄首見米旁與庄組合。"
+    },
+    {
+      "image": 8,
+      "side": "single",
+      "column": 4,
+      "source_image_sha256": "3c63c5911e0cadf216444909a8933a583be75e67a9e8fc4dbfd775ec47281a35",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "reading": "說他要",
+      "status": "依原圖留讀",
+      "reason": "末欄三字清楚，次欄再起他不作衍字處理。"
+    },
+    {
+      "image": 11,
+      "side": "single",
+      "column": 2,
+      "source_image_sha256": "1585e593f16b352edf86aa94d22db56f1c0db35ddb9dab2ccf85d5e3100a8a08",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json",
+      "reading": "我是同",
+      "status": "依原圖留讀",
+      "reason": "開頭可辨我、是兩字。"
+    },
+    {
+      "image": 13,
+      "side": "single",
+      "column": 3,
+      "source_image_sha256": "6f06931da5875308dadf1938796aca9c885075abbc64cc103f322ff6f313ac1a",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1.json",
+      "reading": "也。○再者",
+      "status": "依原圖留讀",
+      "reason": "字側小圈與等字高空圈有清楚位置差異。"
+    }
+  ]
+}

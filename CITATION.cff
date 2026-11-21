@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '崇真實棄假謊略說（1816 年馬六甲刊，牛津大學 Sinica 1341） / Chong zhen shi qi jia huang lüe shuo
   [Tract on the Sin of Lying and the Importance of Truth]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

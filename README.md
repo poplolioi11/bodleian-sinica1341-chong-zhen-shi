@@ -4,11 +4,11 @@
 
 William Milne’s vernacular Chinese tract on lying and truthfulness was published in Malacca in 1816 under the pen name Bo’ai zhe. The pamphlet discusses sales to visiting customers, promises to repay debts, and testimony before officials. This transcription follows the Bodleian Libraries’ offprint from the Chinese Monthly Magazine, Sinica 1341.
 
-## V0.1.0
+## V0.2.0
 
-16 幅有原圖定位，收第3幅題葉及第5至14幅正文全 10 面。另記封面、藏印、經文旁注、版心與文字旁線。AI 輔助逐欄初錄，疑讀另記。
+16 幅有原圖定位，收第3幅題葉及第5至14幅正文全 10 面。另記封面、藏印、經文旁注、版心與文字旁線。比對獨立原圖讀法後回圖裁定，採用 9 筆訂正，留存疑讀定位。
 
-All 16 images are indexed. Text covers the title leaf on scan 3 and all ten body faces on scans 5–14. Wrappers, seals, marginal scripture references, running titles and name lines are documented. AI-assisted initial transcription with uncertain readings marked.
+All 16 images are indexed. Text covers the title leaf on scan 3 and all ten body faces on scans 5–14. Wrappers, seals, marginal scripture references, running titles and name lines are documented. An independent image reading was compared with the first transcription. Source-image adjudication adopted 9 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
