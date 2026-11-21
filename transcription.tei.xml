@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>崇真實棄假謊略說</title>
+        <title type="alternate">Chong zhen shi qi jia huang lüe shuo</title>
+        <author>米憐（William Milne，原署博愛者）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>英國牛津（現藏）；原刊馬六甲</settlement>
+            <repository>牛津大學博德利圖書館</repository>
+            <collection>Sinica</collection>
+            <idno>Sinica 1341</idno>
+            <altIdentifier>
+              <idno>SINICA1341</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>米憐（William Milne）署「博愛者」撰《崇真實棄假謊略說》，1816 年在馬六甲刊行，原為《察世俗每月統記傳》的一篇。文中以招攬外地客商、約定還款、上公堂作證等場景談謊言與互信，可供華文期刊史與傳教出版研究對照。底本為牛津大學博德利圖書館 Sinica 1341 抽印本。</p>
+              <ref target="https://digital.bodleian.ox.ac.uk/objects/d23a9dbb-4847-48aa-af2e-225ff0389e58/">館方書目</ref>
+              <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/d23a9dbb-4847-48aa-af2e-225ff0389e58.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>1816 年馬六甲，《察世俗每月統記傳》抽印。原件印「閏六月」。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/2e47f698-0c21-409e-878c-4a45705a49cb.json" xml:id="f01">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/2e47f698-0c21-409e-878c-4a45705a49cb/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/ba821ea0-4b7e-4ec0-b085-d127d40f5af8.json" xml:id="f02">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/ba821ea0-4b7e-4ec0-b085-d127d40f5af8/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/0e4dfb5d-74e1-4548-a2d7-352ea835e255.json" xml:id="f03">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/0e4dfb5d-74e1-4548-a2d7-352ea835e255/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="4" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/69423726-6d99-496d-b3c2-29982bfff93c.json" xml:id="f04">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/69423726-6d99-496d-b3c2-29982bfff93c/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/2339252e-d4f6-4a0d-bb1d-0f59bdde698d.json" xml:id="f05">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/2339252e-d4f6-4a0d-bb1d-0f59bdde698d/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec12904e-fc2c-40f6-b1ff-76ead0afae06.json" xml:id="f06">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/ec12904e-fc2c-40f6-b1ff-76ead0afae06/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="7" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/c8eb2d25-7a15-43e3-ae9f-58e99bc34f51.json" xml:id="f07">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/c8eb2d25-7a15-43e3-ae9f-58e99bc34f51/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="8" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json" xml:id="f08">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4cf9595b-30bd-4ead-93bf-7d439ab49307/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="9" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/25c4919f-e5ee-417e-9cee-69f665796b6e.json" xml:id="f09">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/25c4919f-e5ee-417e-9cee-69f665796b6e/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="10" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/5284f883-07da-491d-b4c8-66bd029f6086.json" xml:id="f10">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/5284f883-07da-491d-b4c8-66bd029f6086/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="11" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json" xml:id="f11">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4c35b3f3-24d2-4206-b801-2ae37a47940c/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="12" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/d42310cc-4e83-47eb-b13d-b5caba386165.json" xml:id="f12">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/d42310cc-4e83-47eb-b13d-b5caba386165/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="13" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1.json" xml:id="f13">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="14" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/d36b6192-0391-4b98-ac42-7cc9a191f9fa.json" xml:id="f14">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/d36b6192-0391-4b98-ac42-7cc9a191f9fa/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="15" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/3e0f4184-cc36-4559-8978-736615237257.json" xml:id="f15">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/3e0f4184-cc36-4559-8978-736615237257/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="16" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/28928285-b0c6-4570-8ff6-b14b5d39c9a4.json" xml:id="f16">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/28928285-b0c6-4570-8ff6-b14b5d39c9a4/full/2000,/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="binding-or-blank">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>展覽封面貼紙</label>
+              <seg type="diplomatic-text" rend="unknown">CENTENNIAL EXHIBITION.／China Protestant Mission.／No 85</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面題識</label>
+              <seg type="diplomatic-text" rend="unknown">454 b</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面題識</label>
+              <seg type="diplomatic-text" rend="unknown">Sinica 1341</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面題識</label>
+              <seg type="diplomatic-text" rend="unknown">Ser. e. 352</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面題識</label>
+              <seg type="diplomatic-text" rend="unknown">Chin. 657 b.</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面題識</label>
+              <seg type="diplomatic-text" rend="unknown">1816</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：展覽貼紙「No」為印字，「85」為手寫；封面其餘為後加識記。鉛筆「Ser. e.」待核。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote />
+              <note type="editorial">展覽貼紙「No」為印字，「85」為手寫；封面其餘為後加識記。鉛筆「Ser. e.」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="binding-or-blank">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：前封內面空白。裝訂左緣所見相鄰黃紙不重錄。</ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="title-leaf">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f03-s-c01">
+              <seg type="diplomatic-text">崇眞實棄假謊略說</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-s-c02">
+              <seg type="diplomatic-text">　　博愛者纂</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：黃色題葉，左側「博愛者纂」起於版框中段。題名用「眞」。</ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="binding-or-blank">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：題葉背面為反向透印，不重錄黃紙正面；下緣有淡圓形印記，印文未釋。裝訂左緣所見相鄰正文不重錄。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote />
+              <note type="editorial">題葉背面為反向透印，不重錄黃紙正面；下緣有淡圓形印記，印文未釋。裝訂左緣所見相鄰正文不重錄。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f05-s-c01">
+              <seg type="diplomatic-text">　　謊語之罪論</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-s-c02">
+              <seg type="diplomatic-text">聖書云、汝當棄謊、各人與己隣講眞、因吾輩相爲肢</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-s-c03">
+              <seg type="diplomatic-text">也。這一節是勸人常常說眞實的話、那假言謊語、一</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-s-c04">
+              <seg type="diplomatic-text">聲、一句、都不可講出口來也。嗚呼世人多犯斯罪</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-s-c05">
+              <seg type="diplomatic-text">矣。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-s-c06">
+              <seg type="diplomatic-text">甚麼是算得謊語呢。這個謊語有多般。各等人都是</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-s-c07">
+              <seg type="diplomatic-text">犯斯罪。或者我自己做甚麼不好的事、就說是他人</seg>
+            </ab>
+            <ab type="page-feature" subtype="periodical-date">
+              <label>首欄下方刊期</label>
+              <seg type="diplomatic-text" rend="unknown">閏六月</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>經文欄上方</label>
+              <seg type="diplomatic-text" rend="unknown">見以弗所／書四章／二十五節</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：與第06面「做的」接續。題柱與引文欄之間的空白保留為版面資訊。原圈點大小不同，有疑處依回圖調整。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote />
+              <note type="editorial">與第06面「做的」接續。題柱與引文欄之間的空白保留為版面資訊。原圈點大小不同，有疑處依回圖調整。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f06-s-c01">
+              <seg type="diplomatic-text">做的、或說他人強我做、這是一等的謊語也。或者同</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-s-c02">
+              <seg type="diplomatic-text">某人有了口角、不相好、就立意去做出多少的假話、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-s-c03">
+              <seg type="diplomatic-text">想害他的名聲、而令別人毀謗他、這又是一等的謊</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-s-c04">
+              <seg type="diplomatic-text">語也。或者我做人家的跟班、而私用家主的東西、就</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-s-c05">
+              <seg type="diplomatic-text">說不見了。或說某人偷了。或者自己失手、打壞了東</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-s-c06">
+              <seg type="diplomatic-text">西、因怕家主怒我、就說是他人打壞了、這又是一等</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-s-c07">
+              <seg type="diplomatic-text">的謊語也。或者同人家約信、講定某時必定還他的</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-s-c08">
+              <seg type="diplomatic-text">工錢、或貨物錢、而那定的時到了、却就說向來總未</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：版心文字只露半側；次面（第07面）接「定一個時候」。</ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f07-s-c01">
+              <seg type="diplomatic-text">定一個時候、又未定着還這麼多的錢、這又是一等</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-s-c02">
+              <seg type="diplomatic-text">的謊語也。或者明知道自己的貨物有些毛病、就去</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-s-c03">
+              <seg type="diplomatic-text">說他是上等好的、想叫人家來買。或者自己有貨物、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-s-c04">
+              <seg type="diplomatic-text">又因恐怕價錢將落要人家快來買、就東去、西去、說</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-s-c05">
+              <seg type="diplomatic-text">今年必定沒有別的洋船拿這樣貨物來賣、這又是</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-s-c06">
+              <seg type="diplomatic-text">一等的謊語也。或者在官府衙門去做証、不肯講眞</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-s-c07">
+              <seg type="diplomatic-text">實、乃因歡喜原告、則說他是有情理、而因不歡喜被</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-s-c08">
+              <seg type="diplomatic-text">告、就妄証他、這又是一等的謊語也。或者想使人家</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：版心文字只露半側。第六欄「証」依字形。</ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f08-s-c01">
+              <seg type="diplomatic-text">□駭、就說某時某處、明明見了非常之兆、這又是一</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-s-c02">
+              <seg type="diplomatic-text">等的謊語也。或者見有外省外國的客、不知此處的</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-s-c03">
+              <seg type="diplomatic-text">規矩新來者、我就去謀、多多得他的錢、日夜跟着他、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-s-c04">
+              <seg type="diplomatic-text">粧出多少的禮貌待他、假出多少公道的話、說他要</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-s-c05">
+              <seg type="diplomatic-text">他到我貨行、我木店、我鐵鋪、來買我的貨物。而恐他</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-s-c06">
+              <seg type="diplomatic-text">去同別人買東西就說這隣舍是不正經的人、那隣</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-s-c07">
+              <seg type="diplomatic-text">舍的貨物、工夫、都有毛病、請尊客不要到他們那裡</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-s-c08">
+              <seg type="diplomatic-text">去、獨托小弟、照看小弟、弟果不敢哄人也。明知道這</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：第一欄首字印淡，「□」疑為「驚」，須依原圖形體確認。第二字疑「駭」。第四欄「粧」，與全文新舊字形分開保留。 單幅：第四欄尾及第五欄首均見「他」，依底本分欄保留。「他要他到」讀序待核。</ab>
+            <ab type="transcription-issue" n="single:1">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:1">
+              <quote>□</quote>
+              <note type="editorial">第一欄首字印淡，「□」疑為「驚」，須依原圖形體確認。第二字疑「駭」。第四欄「粧」，與全文新舊字形分開保留。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:1">
+              <quote>駭</quote>
+              <note type="editorial">第一欄首字印淡，「□」疑為「驚」，須依原圖形體確認。第二字疑「駭」。第四欄「粧」，與全文新舊字形分開保留。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:4">
+              <quote>粧</quote>
+              <note type="editorial">第一欄首字印淡，「□」疑為「驚」，須依原圖形體確認。第二字疑「駭」。第四欄「粧」，與全文新舊字形分開保留。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>他</quote>
+              <note type="editorial">第四欄尾及第五欄首均見「他」，依底本分欄保留。「他要他到」讀序待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f09-s-c01">
+              <seg type="diplomatic-text">貨物、這工夫、不過堪值一兩銀子、就說云實是堪值</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-s-c02">
+              <seg type="diplomatic-text">二三兩銀子、這是老老實實的是照規矩的價錢兒。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-s-c03">
+              <seg type="diplomatic-text">這個話、無非欲騙外客、損人益己的意思耳、又多人</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-s-c04">
+              <seg type="diplomatic-text">想能以騙外客而賺錢、者、是好手也。這又是一等的</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-s-c05">
+              <seg type="diplomatic-text">謊話也。還有未盡的許多、這裡講的不過是大概而</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-s-c06">
+              <seg type="diplomatic-text">已。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-s-c07">
+              <seg type="diplomatic-text">人爲甚麼的緣故而不可講謊呢。答曰、因爲神常常</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-s-c08">
+              <seg type="diplomatic-text">聽人的話又實在恨惡百般的謊語、我嘴在隱處所</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f09-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：第三欄「騙」印淺。第六欄「已」後留空，下一欄起問答。</ab>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="10" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f10-s-c01">
+              <seg type="diplomatic-text">講的各聲、各句、無一神不明明聽着、我若說一絲一</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-s-c02">
+              <seg type="diplomatic-text">毫的假言謊語、則神必定是恨我惡我、看我爲在天</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-s-c03">
+              <seg type="diplomatic-text">之下最可惡之物、算我爲他之敵也。神是眞實之源、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-s-c04">
+              <seg type="diplomatic-text">凡僞、假、謊、詭、之話事、都爲神所極惡、故人斷不可說</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-s-c05">
+              <seg type="diplomatic-text">謊也。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-s-c06">
+              <seg type="diplomatic-text">凡人講謊者、是似魔鬼、蓋魔鬼爲謊者、而謊之父也、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-s-c07">
+              <seg type="diplomatic-text">我若講謊、我就是魔鬼之子也。在罪人中、最似魔鬼</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-s-c08">
+              <seg type="diplomatic-text">者莫如謊者、講謊說假者他不是神之子又不是信</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f10-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：第五欄「謊也」後留空。第四欄「僞」依底本形。</ab>
+          </div>
+        </div>
+        <pb n="11" facs="#f11" />
+        <div n="11" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f11-s-c01">
+              <seg type="diplomatic-text">耶穌之人、他正是魔鬼之像、故人斷不可謊也。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-s-c02">
+              <seg type="diplomatic-text">我是同世人相爲肢、故不可說謊也。世人皆一個始</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-s-c03">
+              <seg type="diplomatic-text">祖、卽亞大麥所生下來、可比人身。他爲體、萬萬人爲</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-s-c04">
+              <seg type="diplomatic-text">肢、故曰吾輩相爲肢也。我世人若相謊、就如一人體</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-s-c05">
+              <seg type="diplomatic-text">之肢相謊、而那有聽見人用自己的舌謊言於腳、或</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-s-c06">
+              <seg type="diplomatic-text">把左手去害右手、或令耳目相哄者乎、世人皆如弟</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-s-c07">
+              <seg type="diplomatic-text">兄。他人不是同我父母所生、就是同我隣舍。不是同</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-s-c08">
+              <seg type="diplomatic-text">我隣舍、就是同國。不是同國、就是同一眞活神所造</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f11-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：「耶穌」「亞大麥」旁有直線。第二欄「我是同」依字形保留待核。</ab>
+            <ab type="transcription-issue" n="single:1">
+              <quote>耶穌</quote>
+              <note type="editorial">「耶穌」「亞大麥」旁有直線。第二欄「我是同」依字形保留待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:3">
+              <quote>亞大麥</quote>
+              <note type="editorial">「耶穌」「亞大麥」旁有直線。第二欄「我是同」依字形保留待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:2">
+              <quote>我是同</quote>
+              <note type="editorial">「耶穌」「亞大麥」旁有直線。第二欄「我是同」依字形保留待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="12" facs="#f12" />
+        <div n="12" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f12-s-c01">
+              <seg type="diplomatic-text">養、又同一高祖所流下的人。若我說謊於他人、是弟</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-s-c02">
+              <seg type="diplomatic-text">兄對弟兄說謊、而相害、就是了。信實在人間是如灰</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-s-c03">
+              <seg type="diplomatic-text">在石墻。石墻無灰、則不能久、雖無大雨下、無大風□、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-s-c04">
+              <seg type="diplomatic-text">還自傾倒、石上有灰、則可久耐也。信實存在人間、則</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-s-c05">
+              <seg type="diplomatic-text">可以成個世界。信實失則尙能成個世界麼。我若對</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-s-c06">
+              <seg type="diplomatic-text">這人說謊、你對那人說謊、而人人對人人說謊、則人</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-s-c07">
+              <seg type="diplomatic-text">難生在世上也、我常欲他人說眞不說謊於我、我亦</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f12-s-c08">
+              <seg type="diplomatic-text">當常說眞不說謊於人也、謊者之利害、比水火之利</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f12-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：第三欄末字在「大風」後，墨跡重疊，「□」可能是「颳」或「飃」，待核。</ab>
+            <ab type="transcription-issue" n="single:3">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:3">
+              <quote>大風</quote>
+              <note type="editorial">第三欄末字在「大風」後，墨跡重疊，「□」可能是「颳」或「飃」，待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:3">
+              <quote>□</quote>
+              <note type="editorial">第三欄末字在「大風」後，墨跡重疊，「□」可能是「颳」或「飃」，待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="13" facs="#f13" />
+        <div n="13" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f13-s-c01">
+              <seg type="diplomatic-text">害更重。若在一鄉一村裡、有個謊者、他的利害處多</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f13-s-c02">
+              <seg type="diplomatic-text">得很、不能算得起。那鄉那村裡頭的人、都不得安樂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f13-s-c03">
+              <seg type="diplomatic-text">也。○再者、凡信耶穌者、不拘何處人、都同耶穌相爲</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f13-s-c04">
+              <seg type="diplomatic-text">一體。其爲首、而他們都結合相爲肢也。萬人以性相</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f13-s-c05">
+              <seg type="diplomatic-text">爲肢、惟凡信耶穌者以信相爲肢。性不比信之貴。故</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f13-s-c06">
+              <seg type="diplomatic-text">以性相爲肢者、既然不可相謊、何况以信相爲肢者</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f13-s-c07">
+              <seg type="diplomatic-text">乎。耶穌慈愛我們、降世救我們、流其寶血、洗去我們</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f13-s-c08">
+              <seg type="diplomatic-text">諸罪、而我們若相謊、這豈不是辜負他贖罪的恩乎。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f13-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：第三欄「○」為正文內較大的圈，與字旁句圈不同。「耶穌」旁有直線。</ab>
+          </div>
+        </div>
+        <pb n="14" facs="#f14" />
+        <div n="14" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f14-s-c01">
+              <seg type="diplomatic-text">故信耶穌者不可相謊、又不可說謊於他人也。若是</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f14-s-c02">
+              <seg type="diplomatic-text">世上人、因想得利、敢犯神之誡、而說謊、信者斷不可。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f14-s-c03">
+              <seg type="diplomatic-text">若以講一句謊語、卽可能得國位、治天下、信者亦斷</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f14-s-c04">
+              <seg type="diplomatic-text">不可講那一句。若自任說謊、就不算得信者也。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f14-s-c05">
+              <seg type="diplomatic-text">凡謊者必有惡報。蓋聖書云、無信輩、可惡輩、兇手輩、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f14-s-c06">
+              <seg type="diplomatic-text">宿娼輩、邪術輩、拜神像輩、及諸講謊輩、俱將得其分</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f14-s-c07">
+              <seg type="diplomatic-text">于以火以硫磺而燒之湖。此言謊輩、死卽落地獄、同</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f14-s-c08">
+              <seg type="diplomatic-text">兇手等均受一罰。看文者還敢謊哉。豈不當自愼乎。</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-s-c08">
+              <label>末段上方經文旁注</label>
+              <seg type="diplomatic-text" rend="unknown">見現示之／書二十一／章八節</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f14-s-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">察世俗</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：「耶穌」旁有直線。第五、第八欄「兇」以及末句「愼」依字形待核。</ab>
+            <ab type="transcription-issue" n="single:1">
+              <quote>耶穌</quote>
+              <note type="editorial">「耶穌」旁有直線。第五、第八欄「兇」以及末句「愼」依字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>兇</quote>
+              <note type="editorial">「耶穌」旁有直線。第五、第八欄「兇」以及末句「愼」依字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:8">
+              <quote>愼</quote>
+              <note type="editorial">「耶穌」旁有直線。第五、第八欄「兇」以及末句「愼」依字形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="15" facs="#f15" />
+        <div n="15" type="scan" subtype="binding-or-blank">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：後封內面空白。</ab>
+          </div>
+        </div>
+        <pb n="16" facs="#f16" />
+        <div n="16" type="scan" subtype="binding-or-blank">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：後封面無文字。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

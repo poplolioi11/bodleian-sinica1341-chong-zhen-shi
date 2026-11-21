@@ -1,0 +1,125 @@
+{
+  "historical_author": "米憐（William Milne，原署博愛者）",
+  "source_identity": "Bodleian Libraries, University of Oxford, Sinica 1341",
+  "source": "https://digital.bodleian.ox.ac.uk/objects/d23a9dbb-4847-48aa-af2e-225ff0389e58/",
+  "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/d23a9dbb-4847-48aa-af2e-225ff0389e58.json",
+  "source_rights_policy": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 16,
+  "content_scan_count": 11,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2e47f698-0c21-409e-878c-4a45705a49cb.json",
+      "label": "Upper cover",
+      "sha256": "4eee367813d5dbc3a7e98317ad5ee04c00c185ac4b174853f660a283783ed153",
+      "content_role": "binding-or-blank"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ba821ea0-4b7e-4ec0-b085-d127d40f5af8.json",
+      "label": "Inside upper cover",
+      "sha256": "cd60c471776cf71c1e7f49351282826eb87c7b51cf2f932e8564aced7ba1e89b",
+      "content_role": "binding-or-blank"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0e4dfb5d-74e1-4548-a2d7-352ea835e255.json",
+      "label": "p. [1]",
+      "sha256": "9e9c926e23f8c44d7d32b8afc28776d697bb70999982ccb8c166655d3ee1bb33",
+      "content_role": "title-leaf"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69423726-6d99-496d-b3c2-29982bfff93c.json",
+      "label": "p. [2]",
+      "sha256": "5055423c2ef1f3a414910e70a4d5eab27e56cd979ea4ea2d01e5e0d68d14caac",
+      "content_role": "binding-or-blank"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2339252e-d4f6-4a0d-bb1d-0f59bdde698d.json",
+      "label": "p. [3]",
+      "sha256": "8a1a81d73dc13dfe8a41a281632bd789a6670552fcf964947b4ddda1f0c303ad",
+      "content_role": "author-text"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec12904e-fc2c-40f6-b1ff-76ead0afae06.json",
+      "label": "p. [4]",
+      "sha256": "ee9952dce5cee6a6e101dbaff8509b95b1315b75f14467038c967b3fe28bcff6",
+      "content_role": "author-text"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c8eb2d25-7a15-43e3-ae9f-58e99bc34f51.json",
+      "label": "p. [5]",
+      "sha256": "9563071620dd7c490910420f4bddc58d9986b74f7bb5fb2ff000d328922666a0",
+      "content_role": "author-text"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4cf9595b-30bd-4ead-93bf-7d439ab49307.json",
+      "label": "p. [6]",
+      "sha256": "3c63c5911e0cadf216444909a8933a583be75e67a9e8fc4dbfd775ec47281a35",
+      "content_role": "author-text"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/25c4919f-e5ee-417e-9cee-69f665796b6e.json",
+      "label": "p. [7]",
+      "sha256": "4cb3b018d1cbe87a41df478461cce560a013b97da76b6e6c4db81f7f52c8e337",
+      "content_role": "author-text"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5284f883-07da-491d-b4c8-66bd029f6086.json",
+      "label": "p. [8]",
+      "sha256": "a9dcf744ed33e9d3149bf3c428c1b5e8cfd923bcf866b4cc6c63bc4b19878be8",
+      "content_role": "author-text"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c35b3f3-24d2-4206-b801-2ae37a47940c.json",
+      "label": "p. [9]",
+      "sha256": "1585e593f16b352edf86aa94d22db56f1c0db35ddb9dab2ccf85d5e3100a8a08",
+      "content_role": "author-text"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d42310cc-4e83-47eb-b13d-b5caba386165.json",
+      "label": "p. [10]",
+      "sha256": "273f01d69d65c348f265809a5c4f2ba2a931f214ff90434ed9783fb30f3dc8db",
+      "content_role": "author-text"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4f33cc94-27a9-4f51-b4d7-1a7d67196dc1.json",
+      "label": "p. [11]",
+      "sha256": "6f06931da5875308dadf1938796aca9c885075abbc64cc103f322ff6f313ac1a",
+      "content_role": "author-text"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d36b6192-0391-4b98-ac42-7cc9a191f9fa.json",
+      "label": "p. [12]",
+      "sha256": "8c8a1457a2f4639b4916749743795dcb7629a4ddbdd52efb54ec2865da74bf0a",
+      "content_role": "author-text"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3e0f4184-cc36-4559-8978-736615237257.json",
+      "label": "Inside lower cover",
+      "sha256": "e2d731deedbbfc1a53f381ddc776a680067e9e0b58205c240057da06c78d1e96",
+      "content_role": "binding-or-blank"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/28928285-b0c6-4570-8ff6-b14b5d39c9a4.json",
+      "label": "Lower cover",
+      "sha256": "b0480dae22dfdd63cfc926c88230cd9302f98caa864d1263653ad60a5256e27c",
+      "content_role": "binding-or-blank"
+    }
+  ]
+}
